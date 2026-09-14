@@ -1,14 +1,10 @@
 # The Temporal Feedback Loop: A Recursive Model of Emotionally Modulated Simulation
 
-Jason Brisart
-
-Independent Researcher
-
-jason@brisartresearcharchive.com
-
-www.brisartresearcharchive.com
-
-June 2025
+- Jason Brisart
+- Brisart Research Archive
+- jason@BrisartResearchArchive.com
+- www.BrisartResearchArchive.com
+- June 2025
 
 ---
 
@@ -19,18 +15,6 @@ The continuity of conscious experience across time remains a central challenge i
 Central to TFL is the hypothesis that affectively salient thoughts encode predictive simulations, which remain active within the loop until incoming feedback affirms or contradicts their simulated content. Belief is defined as a cognitive-affective prior that modulates the loop by biasing attention, shaping memory retrieval, and constraining simulated outcomes. Crucially, the framework proposes that external events—whether self-initiated or passively observed—recursively influence internal loop dynamics through registration and internal simulation, thereby expanding the explanatory power of the model.
 
 TFL integrates findings from hippocampal-prefrontal dynamics, affective salience encoding, predictive processing, and memory reconsolidation. It introduces a formal loop architecture, provides falsifiable predictions, and outlines empirical scenarios suitable for experimental testing. Rather than framing consciousness as a linear stream, TFL conceptualizes it as a dynamic, recursive system governed by belief-weighted inference and continuous feedback.
-
-**Version 4.2 Revision Notes (June 2025)**
-
-This framework is now part of the Brisart Research Archive — a sealed collection of advanced cognitive frameworks authored by Jason Brisart.
-
-Access to future versions, institutional use, and experimental applications is restricted under formal license.
-
-For licensing inquiries or early access, please contact:
-
-**jason@brisartresearcharchive.com**
-
-**www.brisartresearcharchive.com**
 
 ---
 
@@ -377,49 +361,3 @@ Loop Resolution Criteria:
 This framework supports future behavioral, phenomenological, and computational tracking of loop behavior across real-world and experimental conditions.
 
 ---
-
-## References
-
-Addis, D. R., Wong, A. T., & Schacter, D. L. (2007). Remembering the past and imagining the future: Common and distinct neural substrates during event construction and elaboration. Neuropsychologia, 45(7), 1363–1377. https://doi.org/10.1016/j.neuropsychologia.2006.10.016
-
-Baars, B. J. (1988). A Cognitive Theory of Consciousness. Cambridge University Press.
-
-Brisart, J. (2025). The Brisart Format: A Standardized Structure for Theoretical and Conceptual Manuscripts (v1.1). Zenodo. https://doi.org/10.5281/zenodo.15660799
-
-Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. Behavioral and Brain Sciences, 36(3), 181–204. https://doi.org/10.1017/S0140525X12000477
-
-Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. Neuron, 70(2), 200–227. https://doi.org/10.1016/j.neuron.2011.03.018
-
-Dolcos, F., LaBar, K. S., & Cabeza, R. (2005). Remembering one year later: Role of the amygdala and the medial temporal lobe memory system in retrieving emotional memories. PNAS, 102(7), 2626–2631. https://doi.org/10.1073/pnas.0409848102
-
-Dunsmoor, J. E., Kroes, M. C. W., Braren, S. H., & Phelps, E. A. (2015). Emotional learning selectively and retroactively strengthens memories for related events. Nature, 520(7547), 345–348. https://doi.org/10.1038/nature14146
-
-Friston, K. (2010). The free-energy principle: A unified brain theory? Nature Reviews Neuroscience, 11(2), 127–138. https://doi.org/10.1038/nrn2787
-
-Gallese, V., & Goldman, A. (1998). Mirror neurons and the simulation theory of mind-reading. Trends in Cognitive Sciences, 2(12), 493–501. https://doi.org/10.1016/S1364-6613(98)01262-5
-
-Gilbert, D. T., & Wilson, T. D. (2007). Prospection: Experiencing the future. Science, 317(5843), 1351–1354. https://doi.org/10.1126/science.1144161
-
-Hassabis, D., & Maguire, E. A. (2007). Deconstructing episodic memory with construction. Trends in Cognitive Sciences, 11(7), 299–306. https://doi.org/10.1016/j.tics.2007.05.001
-
-Hassabis, D., Kumaran, D., Vann, S. D., & Maguire, E. A. (2007). Patients with hippocampal amnesia cannot imagine new experiences. PNAS, 104(5), 1726–1731. https://doi.org/10.1073/pnas.0610561104
-
-Horikawa, T., Tamaki, M., Miyawaki, Y., & Kamitani, Y. (2013). Neural decoding of visual imagery during sleep. Science, 340(6132), 639–642. https://doi.org/10.1126/science.1234330
-
-Jadhav, S. P., Kemere, C., German, P. W., & Frank, L. M. (2012). Awake hippocampal sharp-wave ripples support spatial memory. Science, 336(6087), 1454–1458. https://doi.org/10.1126/science.1217230
-
-McAdams, D. P. (2001). The psychology of life stories. Review of General Psychology, 5(2), 100–122. https://doi.org/10.1037/1089-2680.5.2.100
-
-Miller, E. K., & Cohen, J. D. (2001). An integrative theory of prefrontal cortex function. Annual Review of Neuroscience, 24, 167–202. https://doi.org/10.1146/annurev.neuro.24.1.167
-
-Northoff, G., & Huang, Z. (2017). How do the brain’s time and space mediate consciousness and its different dimensions? Temporo-spatial theory of consciousness (TTC). Neuroscience & Biobehavioral Reviews, 80, 630–645. https://doi.org/10.1016/j.neubiorev.2017.07.003
-
-Pfeiffer, B. E., & Foster, D. J. (2013). Hippocampal place-cell sequences depict future paths to remembered goals. Nature, 497(7447), 74–79. https://doi.org/10.1038/nature12112
-
-Place, R., Farovik, A., Brockmann, M., & Eichenbaum, H. (2016). Bidirectional prefrontal-hippocampal interactions support context-guided memory. Nature Neuroscience, 19(8), 992–994. https://doi.org/10.1038/nn.4327
-
-Schacter, D. L., Benoit, R. G., & Szpunar, K. K. (2017). Episodic future thinking: Mechanisms and functions. Current Opinion in Behavioral Sciences, 17, 41–50. https://doi.org/10.1016/j.cobeha.2017.06.002
-
-Swann, W. B., Jr. (1987). Identity negotiation: Where two roads meet. Journal of Personality and Social Psychology, 53(6), 1038–1051. https://doi.org/10.1037/0022-3514.53.6.1038
-
-Varela, F. J., Thompson, E., & Rosch, E. (1991). The Embodied Mind: Cognitive Science and Human Experience. MIT Press.
