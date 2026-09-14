@@ -1,14 +1,10 @@
 # Simulation Synchronization Theory: A Feedback-Based Model of Affective Role Encoding and Social Identity Stabilization
 
-Jason Brisart
-
-Independent Researcher
-
-jason@brisartresearcharchive.com
-
-www.brisartresearcharchive.com
-
-June 2025
+- Jason Brisart
+- Brisart Research Archive
+- jason@BrisartResearchArchive.com
+- www.BrisartResearchArchive.com
+- June 2025
 
 ---
 
@@ -197,34 +193,6 @@ This model reframes conformity, social anxiety, dissociation, and persona fragme
 At its core, SST offers a testable theory of how the social self emerges—not through abstract reflection, but through emotionally tuned simulation loops that seek resonance and reduce discord. The individual becomes who they believe others believe they are, mediated through recursive affect.
 
 As a framework, SST is designed to evolve. Future work will expand its neuroanatomical specificity, explore its clinical applications, and test its predictions in both laboratory and naturalistic settings. But its central claim remains: identity is not possessed—it is performed, simulated, synchronized, and stabilized in affective space.
-
----
-
-## References
-
-Ashwin, P., Coombes, S., & Nicks, R. (2015). Mathematical frameworks for oscillatory neural networks. Journal of Mathematical Neuroscience, 5(1), 13. https://doi.org/10.1186/s13408-015-0013-6
-
-Bi, G. Q., & Poo, M. M. (1998). Synaptic modifications in cultured hippocampal neurons: Dependence on spike timing, synaptic strength, and postsynaptic cell type. Journal of Neuroscience, 18(24), 10464–10472. https://doi.org/10.1523/JNEUROSCI.18-24-10464.1998
-
-Brisart, J. (2025). The Brisart Format: A standardized template for theoretical, conceptual, and methodological manuscripts (Version 2) \[Preprint\]. Zenodo. https://doi.org/10.5281/zenodo.15725824
-
-Caporale, N., & Dan, Y. (2008). Spike timing–dependent plasticity: A Hebbian learning rule. Annual Review of Neuroscience, 31, 25–46. https://doi.org/10.1146/annurev.neuro.31.060407.125639
-
-Dereito, J. T., Mendlovic, S., & Solms, M. (2021). Emotional simulation and social identity: An affective neuroscience approach. Frontiers in Psychology, 12, 675432. https://doi.org/10.3389/fpsyg.2021.675432
-
-Foerde, K., & Shohamy, D. (2011). Feedback timing modulates brain systems for learning in humans. Journal of Neuroscience, 31(37), 13157–13167. https://doi.org/10.1523/JNEUROSCI.2701-11.2011
-
-Grossberg, S. (2002). Emotion, cognition, and action: A unified neural model. Mind and Matter, 1(1), 29–67.
-
-Millidge, B., Tschantz, A., & Buckley, C. L. (2021). Predictive coding: A theoretical and experimental review. Neural Computation, 33(10), 2567–2620. https://doi.org/10.1162/neco_a_01442
-
-Skottnik, L., Schroeter, T., & Walter, H. (2021). Simulation, emotion, and perspective taking: A cognitive-affective framework. Cognitive, Affective, & Behavioral Neuroscience, 21(2), 341–354. https://doi.org/10.3758/s13415-020-00832-2
-
-Tang, E., & Bassett, D. S. (2017). Control of dynamics in brain networks. Nature Reviews Neuroscience, 18(12), 728–739. https://doi.org/10.1038/nrn.2017.113
-
-Tsao, A., Sugar, J., Lu, L., Wang, C., Knierim, J. J., Moser, M. B., & Moser, E. I. (2018). Integrating time from experience in the lateral entorhinal cortex. Nature, 561(7721), 57–62. https://doi.org/10.1038/s41586-018-0459-6
-
-Turner, K. A., & Taverna, E. C. (2024). Temporal binding mechanisms in predictive cognition: A unified neural model. Trends in Cognitive Sciences, 28(2), 101–114. https://doi.org/10.1016/j.tics.2023.11.002
 
 ---
 
