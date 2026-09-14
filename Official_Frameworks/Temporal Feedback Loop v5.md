@@ -1,14 +1,10 @@
 # The Temporal Feedback Loop: A Recursive Model of Emotionally Modulated Simulation
 
-Jason Brisart
-
-Independent Researcher
-
-jason@brisartresearcharchive.com
-
-www.brisartresearcharchive.com
-
-June 2026
+- Jason Brisart
+- Brisart Research Archive
+- jason@BrisartResearchArchive.com
+- www.BrisartResearchArchive.com
+- June 2026
 
 ---
 
@@ -167,47 +163,7 @@ TFL should be read as a structural account of recursive, affect-modulated simula
 
 TFL formalizes cognition as a closed-loop system in which internally generated simulations are continuously integrated with sensory input and memory, persist conditionally on affective intensity, and are revised through interaction with contradiction and feedback. Its defining feature is not the presence of prediction, memory, or affect individually, but the recursive persistence of content-identifiable simulations across temporally structured integration windows. TFL is therefore best understood as a constrained, falsifiable component within a broader cognitive framework.
 
----
-
-## References
-
-Brisart, J. (2026). *The Brisart Format (TBF): A standardized structural template for organizing theoretical, conceptual, or methodological manuscripts* (2.2). Brisart Research Archive. https://doi.org/10.5281/zenodo.19704090
-
-Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences, 36*(3), 181–204. https://doi.org/10.1017/S0140525X12000477
-
-Dehaene, S., Changeux, J.-P., & Naccache, L. (2011). The global neuronal workspace model of conscious access: From neuronal architectures to clinical applications. In S. Dehaene & Y. Christen (Eds.), *Characterizing consciousness: From cognition to the clinic?* (pp. 55–84). Springer. https://doi.org/10.1007/978-3-642-18015-6_4
-
-Friston, K. J. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience, 11*(2), 127–138. https://doi.org/10.1038/nrn2787
-
-Hohwy, J. (2013). *The predictive mind*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199682737.001.0001
-
-Knill, D. C., & Pouget, A. (2004). The Bayesian brain: The role of uncertainty in neural coding and computation. *Trends in Neurosciences, 27*(12), 712–719. https://doi.org/10.1016/j.tins.2004.10.007
-
-Lamme, V. A. F. (2006). Towards a true neural stance on consciousness. *Trends in Cognitive Sciences, 10*(11), 494–501. https://doi.org/10.1016/j.tics.2006.09.001
-
-Quadt, L., Critchley, H., & Nagai, Y. (2022). Cognition, emotion, and the central autonomic network. *Autonomic Neuroscience: Basic and Clinical, 238*, 102948. https://doi.org/10.1016/j.autneu.2022.102948
-
-Rao, R. P. N., & Ballard, D. H. (1999). Predictive coding in the visual cortex: A functional interpretation of some extra-classical receptive-field effects. *Nature Neuroscience, 2*(1), 79–87. https://doi.org/10.1038/4580
-
-Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B: Biological Sciences, 362*(1481), 773–786. https://doi.org/10.1098/rstb.2007.2087
-
-Seth, A. K. (2013). Interoceptive inference, emotion, and the embodied self. *Trends in Cognitive Sciences, 17*(11), 565–573. https://doi.org/10.1016/j.tics.2013.09.007
-
-Shiffman, S., Stone, A. A., & Hufford, M. R. (2008). Ecological momentary assessment. *Annual Review of Clinical Psychology, 4*(1), 1–32. https://doi.org/10.1146/annurev.clinpsy.3.022806.091415
-
-Smallwood, J., & Schooler, J. W. (2015). The science of mind wandering: Empirically navigating the stream of consciousness. *Annual Review of Psychology, 66*, 487–518. https://doi.org/10.1146/annurev-psych-010814-015331
-
-Vehtari, A., Gelman, A., & Gabry, J. (2017). Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC. *Statistics and Computing, 27*(5), 1413–1432. https://doi.org/10.1007/s11222-016-9696-4
-
-Wang, F., Schoenbaum, G., & Kahnt, T. (2020). Interactions between human orbitofrontal cortex and hippocampus support model-based inference. *PLOS Biology, 18*(1), e3000578. https://doi.org/10.1371/journal.pbio.3000578
-
-Wang, J., Tambini, A., & Lapate, R. C. (2022). The tie that binds: Temporal coding and adaptive emotion. *Trends in Cognitive Sciences, 26*(12), 1103–1118. https://doi.org/10.1016/j.tics.2022.09.005
-
-Watkins, E. R. (2008). Constructive and unconstructive repetitive thought. *Psychological Bulletin, 134*(2), 163–206. https://doi.org/10.1037/0033-2909.134.2.163
-
-Zhang, R., Gan, X., Xu, T., Yu, F., Wang, L., Song, X., Jiao, G., Liu, X., Zhou, F., & Becker, B. (2025). A neurofunctional signature of affective arousal generalizes across valence domains and distinguishes subjective experience from autonomic reactivity. *Nature Communications, 16*, 6492. https://doi.org/10.1038/s41467-025-61706-0
-
----
+===
 
 ## Appendix A: Definitions
 
