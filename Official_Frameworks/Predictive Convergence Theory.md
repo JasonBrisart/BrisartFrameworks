@@ -1,12 +1,10 @@
 # Predictive Convergence Theory (PCT): A Bounded Empirical Framework for Telepathic Interaction and Communication
 
-Jason Brisart
-Independent Researcher
-Brisart Research Archive
-jason@brisartresearcharchive.com
-www.brisartresearcharchive.com
-
-June 2026
+- Jason Brisart
+- Brisart Research Archive
+- jason@BrisartResearchArchive.com
+- www.BrisartResearchArchive.com
+- June 2026
 
 ---
 
