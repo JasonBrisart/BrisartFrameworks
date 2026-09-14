@@ -1,14 +1,10 @@
 # Temporal-Coherence Resonance Framework (TCRF): A Predictive Synchronization Model of Perceptual Integration
 
-Jason Brisart
-
-Independent Researcher
-
-jason@brisartresearcharchive.com
-
-www.brisartresearcharchive.com
-
-March 2026
+- Jason Brisart
+- Brisart Research Archive
+- jason@BrisartResearchArchive.com
+- www.BrisartResearchArchive.com
+- March 2026
 
 ---
 
@@ -181,64 +177,6 @@ The Temporal-Coherence Resonance Framework provides a mechanistically precise, c
 Beyond neuroscience, TCRF carries clear implications for artificial intelligence and brain–computer interfaces: oscillatory recurrent networks that implement Predictive Resonance Alignment could achieve more efficient, energy-minimal perceptual inference and more natural human–AI interaction. While refinement of neuroanatomical and computational details remains, TCRF already constitutes a practical, falsifiable lens through which the brain’s transformation of fragmented sensory input into coherent subjective reality can be rigorously investigated. It stands ready for experimental validation, simulation, and interdisciplinary extension into AI, clinical neuroscience, and the philosophy of consciousness.
 
 A useful way to summarize TCRF is that it treats conscious perception as a temporally regulated contract between hypothesis and evidence. When the contract is honored—predictions arrive on time, evidence arrives within the binding window, and phase relations remain mutually supportive—experience is unified and behavior is efficient. When the contract is repeatedly violated, the system must either revise its hypothesis, broaden its timing tolerance, or fragment into competing interpretations. This framing yields concrete experimental handles (timing perturbations, entrainment manipulations, coherence metrics) and practical targets (phase-informed neurofeedback, closed-loop stimulation), while remaining compatible with established insights from predictive processing and oscillatory communication.
-
----
-
-## References
-
-Alais, D., & Burr, D. (2004). The ventriloquist effect results from near-optimal bimodal integration. *Current Biology, 14*(3), 257–262. <https://doi.org/10.1016/j.cub.2004.01.029>
-
-Arnal, L. H., & Giraud, A.-L. (2012). Cortical oscillations and sensory predictions. *Trends in Cognitive Sciences, 16*(7), 390–398. https://doi.org/10.1016/j.tics.2012.05.003
-
-Arcaro, M. J., Pinsk, M. A., Chen, J., & Kastner, S. (2018). Organizing principles of pulvino-cortical functional coupling in humans. *Nature Communications, 9*, 5382. https://doi.org/10.1038/s41467-018-07725-6
-
-Bastos, A. M., Usrey, W. M., Adams, R. A., Mangun, G. R., Fries, P., & Friston, K. J. (2012). Canonical microcircuits for predictive coding. *Neuron, 76*(4), 695–711. https://doi.org/10.1016/j.neuron.2012.10.038
-
-Cortes, N., de Souza, B. O. F., & Casanova, C. (2020). Pulvinar modulates synchrony across visual cortical areas. *Vision, 4*(2), 22. https://doi.org/10.3390/vision4020022
-
-Cortes, N., Ladret, H. J., Abbas-Farishta, R., & Casanova, C. (2024). The pulvinar as a hub of visual processing and cortical integration. *Trends in Neurosciences, 47*(2), 120–134. https://doi.org/10.1016/j.tins.2023.12.003
-
-Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron, 70*(2), 200–227. https://doi.org/10.1016/j.neuron.2011.03.018
-
-Engel, A. K., Fries, P., & Singer, W. (2001). Dynamic predictions: Oscillations and synchrony in top-down processing. *Nature Reviews Neuroscience, 2*(10), 704–716. https://doi.org/10.1038/35090065
-
-Fries, P. (2015). Rhythms for cognition: Communication through coherence. *Neuron, 88*(1), 220–235. https://doi.org/10.1016/j.neuron.2015.09.034
-
-Frohlich, F., & Townsend, L. (2021). Closed-loop transcranial alternating current stimulation: Towards personalized non-invasive brain stimulation for the treatment of psychiatric illnesses. *Current Behavioral Neuroscience Reports, 8*(2), 51–57. https://doi.org/10.1007/s40473-021-00227-8
-
-Friston, K. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience, 11*(2), 127–138. https://doi.org/10.1038/nrn2787
-
-Haslacher, D., Reber, P., & Soekadar, S. R. (2023). Targeting alpha oscillations using closed-loop transcranial alternating current stimulation. *Brain Stimulation, 16*(1), 235. https://doi.org/10.1016/j.brs.2023.01.358
-
-Helfrich, R. F., Schneider, T. R., Rach, S., Trautmann-Lengsfeld, S. A., Engel, A. K., & Herrmann, C. S. (2014). Entrainment of brain oscillations by transcranial alternating current stimulation. *Current Biology, 24*(3), 333–339. https://doi.org/10.1016/j.cub.2013.12.041
-
-Lee, K., Pennartz, C. M. A., & Mejias, J. F. (2025). Cortical networks with multiple interneuron types generate oscillatory patterns during predictive coding. *PLOS Computational Biology, 21*(9), e1013469.
-
-Rao, R. P. N., & Ballard, D. H. (1999). Predictive coding in the visual cortex: A functional interpretation of some extra-classical receptive-field effects. *Nature Neuroscience, 2*(1), 79–87. https://doi.org/10.1038/4580
-
-Raco, V., Bauer, R., Tharsan, S., & Gharabaghi, A. (2016). Combining TMS and tACS for closed-loop phase-dependent modulation of corticospinal excitability: A feasibility study. *Frontiers in Cellular Neuroscience, 10*, 143. https://doi.org/10.3389/fncel.2016.00143
-
-Ronconi, L., & Melcher, D. (2018). The role of alpha oscillations in temporal binding windows: Evidence from EEG and TMS. *Trends in Cognitive Sciences, 22*(12), 1101–1115. https://doi.org/10.1016/j.tics.2018.09.007
-
-Shams, L., Kamitani, Y., & Shimojo, S. (2000). Illusions: What you see is what you hear. *Nature, 408*(6814), 788. https://doi.org/10.1038/35048669
-
-Schroeder, C. E., & Lakatos, P. (2009). Low-frequency neuronal oscillations as instruments of sensory selection. *Trends in Neurosciences, 32*(1), 9–18. https://doi.org/10.1016/j.tins.2008.09.012
-
-Singer, W. (1999). Neuronal synchrony: A versatile code for the definition of relations? *Neuron, 24*(1), 49–65. https://doi.org/10.1016/S0896-6273(00)80821-1
-
-Stein, B. E., & Meredith, M. A. (1993). *The merging of the senses*. MIT Press.
-
-Stein, B. E., & Stanford, T. R. (2008). Multisensory integration: Current issues from the perspective of the single neuron. *Nature Reviews Neuroscience, 9*(4), 255–266. https://doi.org/10.1038/nrn2331
-
-Thut, G., Schyns, P. G., & Gross, J. (2011). Entrainment of perceptually relevant brain oscillations by non-invasive rhythmic stimulation of the human brain. *Frontiers in Psychology, 2*, 170. https://doi.org/10.3389/fpsyg.2011.00170
-
-Treisman, A. (1996). The binding problem. *Current Opinion in Neurobiology, 6*(2), 171–178. https://doi.org/10.1016/S0959-4388(96)80070-5
-
-Vroomen, J., & Keetels, M. (2010). Perception of intersensory synchrony: A tutorial review. *Attention, Perception, & Psychophysics, 72*(4), 871–884. https://doi.org/10.3758/APP.72.4.871
-
-Wallace, M. T., & Stevenson, R. A. (2014). The construct of the multisensory temporal binding window and its dysregulation in developmental disabilities. *Neuropsychologia, 64*, 105–123. https://doi.org/10.1016/j.neuropsychologia.2014.08.005
-
-Watrous, A. J., Tandon, N., Conner, C. R., Pieters, T., & Ekstrom, A. D. (2015). Phase-amplitude coupling supports prediction error signaling in human hippocampal-cortical networks. *Neuron, 87*(2), 437–450. https://doi.org/10.1016/j.neuron.2015.06.001
 
 ---
 
