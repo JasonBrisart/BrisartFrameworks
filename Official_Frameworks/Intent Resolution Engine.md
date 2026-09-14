@@ -1,9 +1,9 @@
 # The Intent Resolution Engine (IRE): A Neurocognitive Model of Volitional Arbitration
 
 - Jason Brisart
-- Independent Researcher
-- jason@brisartresearcharchive.com
-- www.brisartresearcharchive.com
+- Brisart Research Archive
+- jason@BrisartResearchArchive.com
+- www.BrisartResearchArchive.com
 - June 2025
 
 ---
