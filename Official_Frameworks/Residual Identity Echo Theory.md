@@ -1,14 +1,10 @@
 # Residual Identity Echo Theory (RIET): A Neurocognitive Framework for Apparitional Phenomena via Affective Encoding and Environmental Resonance
 
-Jason Brisart
-
-Independent Researcher
-
-jason@brisartresearcharchive.com
-
-www.brisartresearcharchive.com
-
-April 2026
+- Jason Brisart
+- Brisart Research Archive
+- jason@BrisartResearchArchive.com
+- www.BrisartResearchArchive.com
+- April 2026
 
 ---
 
@@ -505,60 +501,6 @@ In summary, RIET’s core contributions are:
 - Grounds apparitional phenomenology in established memory and inference mechanisms (RIET-M).
 
 - Specifies a high-bar pathway for evaluating any site-level persistence claims (RIET-E) via preregistered, blinded, cue-matched, and replicated tests.
-
----
-
-## References
-
-Arzy, S., Seeck, M., Ortigue, S., Spinelli, L., & Blanke, O. (2006). Induction of an illusory shadow person. *Nature, 443*, 287. https://doi.org/10.1038/443287a
-
-Brewin, C. R. (2014). Episodic memory, perceptual memory, and their interaction: Foundations for a theory of posttraumatic stress disorder. *Psychological Bulletin, 140*(1), 69–97. https://doi.org/10.1037/a0033722
-
-Brisart, J. (2026). The Brisart Format: A Standardized Template for Theoretical, Conceptual, and Methodological Manuscripts (v2.1). Brisart Research Archive. https://doi.org/10.5281/zenodo.19441384
-
-Brown, R., & Kulik, J. (1977). Flashbulb memories. *Cognition, 5*(1), 73–99. https://doi.org/10.1016/0010-0277(77)90018-X
-
-Cheyne, J. A. (2001). The ominous numinous: Sensed presence and “other” hallucinations. *Journal of Consciousness Studies, 8*(5–7), 133–150.
-
-Dolcos, F., LaBar, K. S., & Cabeza, R. (2005). Remembering one year later: Role of the amygdala and medial temporal lobe memory system in retrieving emotional memories. *Proceedings of the National Academy of Sciences, 102*(7), 2626–2631. https://doi.org/10.1073/pnas.0409848102
-
-Droit-Volet, S., & Meck, W. H. (2007). How emotions colour our perception of time. *Trends in Cognitive Sciences, 11*(12), 504–513. https://doi.org/10.1016/j.tics.2007.09.008
-
-Dunsmoor, J. E., Kroes, M. C. W., Braren, S. H., & Phelps, E. A. (2015). Emotional learning selectively and retroactively strengthens memories for related events. *Nature, 520*(7547), 345–348. https://doi.org/10.1038/nature14146
-
-Friston, K., & Frith, C. (2015). A duet for one: Predictive coding and active inference in social interaction. *Brain Research, 1626*, 133–152. https://doi.org/10.1016/j.brainres.2015.02.029
-
-Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin, 114*(1), 3–28.
-
-Kensinger, E. A., & Schacter, D. L. (2006). Processing emotional pictures and words: Effects of valence and arousal. *Cognitive, Affective, & Behavioral Neuroscience, 6*(2), 110–126. https://doi.org/10.3758/CABN.6.2.110
-
-Knez, I. (2006). Autobiographical memories for places. *Memory, 14*(3), 359–377. https://doi.org/10.1080/09658210500365698
-
-Macmillan, N. A., & Creelman, C. D. (2005). *Detection theory: A user’s guide* (2nd ed.). Lawrence Erlbaum Associates.
-
-McGaugh, J. L. (2015). Consolidating memories. *Annual Review of Psychology, 66*, 1–24. https://doi.org/10.1146/annurev-psych-010814-014954
-
-Persinger, M. A. (2001). The neuropsychiatry of paranormal experiences. *The Journal of Neuropsychiatry and Clinical Neurosciences, 13*(4), 515–524. https://doi.org/10.1176/jnp.13.4.515
-
-Powers, A. R., Kelley, M., & Corlett, P. R. (2016). Hallucinations as top-down effects on perception. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 1*(5), 393–400.
-
-Phelps, E. A. (2006). Emotion and cognition: Insights from studies of the human amygdala. *Annual Review of Psychology, 57*, 27–53. https://doi.org/10.1146/annurev.psych.56.091103.070234
-
-Ranganath, C., & Ritchey, M. (2012). Two cortical systems for memory-guided behaviour. *Nature Reviews Neuroscience, 13*(10), 713–726. https://doi.org/10.1038/nrn3338
-
-Ritchey, M., & Cooper, R. A. (2020). Deconstructing the posterior medial episodic network. *Trends in Cognitive Sciences, 24*(6), 451–465.
-
-Sara, S. J. (2009). The locus coeruleus and noradrenergic modulation of cognition. *Nature Reviews Neuroscience, 10*(3), 211–223.
-
-Sharpless, B. A., & Barber, J. P. (2011). Lifetime prevalence rates of sleep paralysis: A systematic review. *Sleep Medicine Reviews, 15*(5), 311–315. https://doi.org/10.1016/j.smrv.2011.01.007
-
-Smith, S. M., & Vela, E. (2001). Environmental context-dependent memory: A review and meta-analysis. *Psychonomic Bulletin & Review, 8*(2), 203–220.
-
-Swann, W. B., Jr. (1987). Identity negotiation: Where two roads meet. *Journal of Personality and Social Psychology, 53*(6), 1038–1051. <https://doi.org/10.1037/0022-3514.53.6.1038>
-
-Tandy, V., & Lawrence, T. (1998). The ghost in the machine. *Journal of the Society for Psychical Research, 62*, 360–364.
-
-Wiseman, R., Watt, C., Greening, E., Stevens, P., & O’Keeffe, C. (2003). An investigation into alleged hauntings. *British Journal of Psychology, 94*(2), 195–211. <https://doi.org/10.1348/000712603762842137>
 
 ---
 
