@@ -1,7 +1,7 @@
 # Perceptual Framing Theory (PFT): A Neurocognitive Model of Conscious Experience as Frame-Driven Interpretive Construction
 
 - Jason Brisart
-- Independent Researcher
+- Brisart Research Archive
 - jason@BrisartResearchArchive.com
 - www.BrisartResearchArchive.com
 - June 2025
