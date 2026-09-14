@@ -1,14 +1,10 @@
 # Perceptual Framing Theory (PFT): A Neurocognitive Model of Conscious Experience as Frame-Driven Interpretive Construction
 
-Jason Brisart
-
-Independent Researcher
-
-jason@brisartresearcharchive.com
-
-brisartresearcharchive.com
-
-June 2025
+- Jason Brisart
+- Independent Researcher
+- jason@BrisartResearchArchive.com
+- www.BrisartResearchArchive.com
+- June 2025
 
 ---
 
@@ -315,35 +311,3 @@ The framework also opens novel pathways for applied domains. In therapy, it offe
 Perceptual Framing Theory does not claim to replace existing models—it offers a complementary structure through which to understand the interpretive dynamics of conscious life. As future research operationalizes frame detection, simulates frame dynamics, and tests PFT across developmental, clinical, and neurotypical populations, the framework stands to evolve into a central scaffold for meaning-centered neuroscience.
 
 What we experience is not the world—it is what we are framed to see. And in that recursive act of framing, the mind writes its own version of reality.
-
----
-
-## References
-
-Barsalou, L. W. (2009). Simulation, situated conceptualization, and prediction. *Philosophical Transactions of the Royal Society B: Biological Sciences*, *364*(1521), 1281–1289. https://doi.org/10.1098/rstb.2008.0319
-
-Brisart, J. (2025). The Brisart Format: A Standardized Template for Theoretical, Conceptual, and Methodological Manuscripts (Version v2). *Zenodo*. https://doi.org/10.5281/zenodo.15725824
-
-Cabanac, M. (2002). What is emotion? *Behavioural Processes*, *60*(2), 69–83. https://doi.org/10.1016/S0376-6357(02)00078-5
-
-Damasio, A. R. (1999). *The feeling of what happens: Body and emotion in the making of consciousness*. Harcourt.
-
-Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, *70*(2), 200–227. https://doi.org/10.1016/j.neuron.2011.03.018
-
-Friston, K. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience*, *11*(2), 127–138. https://doi.org/10.1038/nrn2787
-
-Gallagher, S., & Zahavi, D. (2021). *The phenomenological mind* (3rd ed.). Routledge.
-
-Keltner, D., & Lerner, J. S. (2010). Emotion. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), *Handbook of social psychology* (5th ed., Vol. 1, pp. 317–352). Wiley.
-
-Lindquist, K. A., & Barrett, L. F. (2008). Constructing emotion: The experience of fear as a conceptual act. *Psychological Science*, *19*(9), 898–903. https://doi.org/10.1111/j.1467-9280.2008.02174.x
-
-Scherer, K. R. (2005). What are emotions? And how can they be measured? *Social Science Information*, *44*(4), 695–729. https://doi.org/10.1177/0539018405058216
-
-Schultz, W., Dayan, P., & Montague, P. R. (1997). A neural substrate of prediction and reward. *Science*, *275*(5306), 1593–1599. https://doi.org/10.1126/science.275.5306.1593
-
-Smallwood, J., & Schooler, J. W. (2015). The science of mind wandering: Empirically navigating the stream of consciousness. *Annual Review of Psychology*, *66*, 487–518. https://doi.org/10.1146/annurev-psych-010814-015331
-
-Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, *12*(2), 257–285. https://doi.org/10.1207/s15516709cog1202_4
-
-Teasdale, J. D., Segal, Z. V., & Williams, J. M. G. (1995). How does cognitive therapy prevent depressive relapse and why should attentional control (mindfulness) training help? *Behaviour Research and Therapy*, *33*(1), 25–39. https://doi.org/10.1016/0005-7967(94)E0011-7
