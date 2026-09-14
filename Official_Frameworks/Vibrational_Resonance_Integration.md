@@ -1,12 +1,9 @@
-Jason Brisart
+# Vibrational Resonance Integration Framework (VRIF): A Neurocognitive Model of Frequency-Mediated Stream Integration in Conscious Experience
 
-Independent Researcher
-
-jason@brisartresearcharchive.com
-
-www.brisartresearcharchive.com
-
-April 2026
+- Jason Brisart
+- Brisart Research Archive
+- jason@BrisartResearchArchive.com
+- www.BrisartResearchArchive.com
 
 # Abstract
 
@@ -315,60 +312,6 @@ VRIF is intended to be compatible with (and empirically constrain) broader theor
 VRIF’s distinctive contribution is to elevate this timing structure from “implementation detail” to a falsifiable explanatory target by defining measurable stability metrics (IS persistence, mismatch-event rates) and specifying what findings would count against them.
 
 The integration-strength formalization, phased entrainment dynamics, and measurement-linked predictions position VRIF as a practical framework for designing and interpreting studies of unity, stability, and fragmentation in experience. If future work shows that coupling stability and autonomic–cortical coordination systematically track (and mediate) changes in subjective unity across tasks and interventions, VRIF gains support; if not, its core claims should be revised or rejected. Either outcome advances theory by making the coordination assumptions explicit and testable.
-
----
-
-## References
-
-Brisart, J. (2026). The Brisart Format: A Standardized Template for Theoretical, Conceptual, and Methodological Manuscripts (v2.1). Brisart Research Archive. <https://doi.org/10.5281/zenodo.19441384>
-
-Buzsáki, G. (2006). *Rhythms of the Brain*. Oxford University Press.
-
-Friston, K. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience, 11*(2), 127–138. <https://doi.org/10.1038/nrn2787>
-
-Klimesch, W. (2012). Alpha-band oscillations, attention, and controlled access to stored information. *Trends in Cognitive Sciences, 16*(12), 606–617. <https://doi.org/10.1016/j.tics.2012.10.007>
-
-Lakatos, P., Karmos, G., Mehta, A. D., Ulbert, I., & Schroeder, C. E. (2008). Entrainment of neuronal oscillations as a mechanism of attentional selection. *Science, 320*(5872), 110–113. <https://doi.org/10.1126/science.1154735>
-
-Canolty, R. T., & Knight, R. T. (2010). The functional role of cross-frequency coupling. *Trends in Cognitive Sciences, 14*(11), 506–515. <https://doi.org/10.1016/j.tics.2010.09.001>
-
-Cortes, N., Ladret, H. J., Abbas-Farishta, R., & Casanova, C. (2024). The pulvinar as a hub of visual processing and cortical integration. *Trends in Neurosciences, 47*(2), 120–134. <https://doi.org/10.1016/j.tins.2023.12.003>
-
-Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron, 70*(2), 200–227. <https://doi.org/10.1016/j.neuron.2011.03.018>
-
-Engel, A. K., Fries, P., & Singer, W. (2001). Dynamic predictions: Oscillations and synchrony in top-down processing. *Nature Reviews Neuroscience, 2*(10), 704–716. <https://doi.org/10.1038/35094565>
-
-Fries, P. (2015). Rhythms for cognition: Communication through coherence. *Neuron, 88*(1), 220–235. <https://doi.org/10.1016/j.neuron.2015.09.034>
-
-Goheen, J., Anderson, J. A. E., Zhang, J., & Northoff, G. (2023). From lung to brain: Respiration modulates neural and mental activity. *Neuroscience Bulletin, 39*(10), 1577–1590. <https://doi.org/10.1007/s12264-023-01070-5>
-
-Singer, W. (1999). Neuronal synchrony: A versatile code for the definition of relations? *Neuron, 24*(1), 49–65. <https://doi.org/10.1016/S0896-6273(00)80821-1>
-
-Tognoli, E., & Kelso, J. A. S. (2014). The metastable brain. *Neuron, 81*(1), 35–48. <https://doi.org/10.1016/j.neuron.2013.12.022>
-
-Thayer, J. F., & Lane, R. D. (2000). A model of neurovisceral integration in emotion regulation and dysregulation. *Journal of Affective Disorders, 61*(3), 201–216. <https://doi.org/10.1016/S0165-0327(00)00338-4>
-
-Thayer, J. F., Hansen, A. L., Saus-Rose, E., & Johnsen, B. H. (2009). Heart rate variability, prefrontal neural function, and cognitive performance: The neurovisceral integration perspective on self-regulation, adaptation, and health. *Annals of Behavioral Medicine, 37*(2), 141–153. <https://doi.org/10.1007/s12160-009-9101-z>
-
-Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience, 5*, 42. <https://doi.org/10.1186/1471-2202-5-42>
-
-Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: From consciousness to its physical substrate. *Nature Reviews Neuroscience, 17*(7), 450–461. <https://doi.org/10.1038/nrn.2016.44>
-
-Tort, A. B. L., Komorowski, R., Eichenbaum, H., & Kopell, N. (2010). Measuring phase-amplitude coupling between neuronal oscillations of different frequencies. *Journal of Neurophysiology, 104*(2), 1195–1210. <https://doi.org/10.1152/jn.00106.2010>
-
-Vroomen, J., & Keetels, M. (2010). Perception of intersensory synchrony: A tutorial review. *Attention, Perception, & Psychophysics, 72*(4), 871–884. <https://doi.org/10.3758/APP.72.4.871>
-
-Lee, U., & Mashour, G. A. (2018). The role of network science in the study of anesthetic state transitions. *Anesthesiology, 129*(5), 1029–1044. <https://doi.org/10.1097/ALN.0000000000002228>
-
-Arnal, L. H., & Giraud, A.-L. (2012). Cortical oscillations and sensory predictions. *Trends in Cognitive Sciences, 16*(7), 390–398. <https://doi.org/10.1016/j.tics.2012.05.003>
-
-Bastos, A. M., Usrey, W. M., Adams, R. A., Mangun, G. R., Fries, P., & Friston, K. J. (2012). Canonical microcircuits for predictive coding. *Neuron, 76*(4), 695–711. <https://doi.org/10.1016/j.neuron.2012.10.038>
-
-Friston, K. (2005). A theory of cortical responses. *Philosophical Transactions of the Royal Society B: Biological Sciences, 360*(1456), 815–836. <https://doi.org/10.1098/rstb.2005.1622>
-
-Schroeder, C. E., & Lakatos, P. (2009). Low-frequency neuronal oscillations as instruments of sensory selection. *Trends in Neurosciences, 32*(1), 9–18. <https://doi.org/10.1016/j.tins.2008.09.012>
-
-Boyadzhieva, A., & Kayhan, E. (2021). Keeping the breath in mind: Respiration, neural oscillations, and the free energy principle. *Frontiers in Neuroscience, 15*, 647579. https://doi.org/10.3389/fnins.2021.647579
 
 ---
 
